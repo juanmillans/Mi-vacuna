@@ -97,7 +97,7 @@ class CPU():
     # Esta graica de tortas no recibe ninguna clase de input, unicamente da output las vacunas por persona en una grafica.
     qtty = 0
     qtty_L = [0, 0, 0]
-    E_qtty = ["one vaccine", "two vaccines", "three vaccines"]
+    E_qtty = ["UNA", "DOS", "TRES"]
     for guy in self.Population:
       qtty = len(guy.vaccines)
       if qtty == 1:
@@ -116,6 +116,7 @@ class CPU():
         #qtty_L[6] += 1
 
     plt.pie(qtty_L,labels=E_qtty,wedgeprops={"edgecolor": "black"},autopct="%1.1f%%")
+    plt.title("Numero De Dosis Por Paciente")
 
     plt.show(block=False)
 
