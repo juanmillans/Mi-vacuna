@@ -1,8 +1,0 @@
-cc  03857485  Moreno  Carlos  1985-04-06  Colombia
- 
-2021-05-22 pfizer A4665 Clinica del Mar Ana Maria Martinez
-
-2021-12-03 moderna B7455 Clinica del Mar Gloria Perez
-
-2022-04-07 sinovac C9283 Clinica San Andres Maria Hernandez
-

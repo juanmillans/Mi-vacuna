@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import *
 from Business_logic.CPU import CPU
 from Data.Text_processor import people
+#registeredppl
 class OP6:
   def  __init__(self, p_windw):
     self.name = "rrrra"
@@ -17,7 +18,7 @@ class OP6:
                               pady=5,bg="#70CBFF")
 
     self.labl0 = tk.Label(master=self.descriptionframe,
-                     text = "Esta función toma como entrada un rango de edad, para mostrar la cantidad de personas vacunadas",
+                     text = "Esta función toma como entrada su nimero de identidad con el cual consigue su certificado \nsiempre y cuando se encuentre registrado en la base de datos",
                      padx = 1, pady = 1,justify="left",bg="#70CBFF")
     self.labl1 = tk.Label(master=self.methodsframe,
                      text = "Introduzca su numero de identidad",
@@ -28,8 +29,9 @@ class OP6:
                      padx = 1, pady = 1,justify="left")
 
     self.labl3 = tk.Label(master=self.methodsframe,
-                     text = "Ese documento no se encuentrea registrado",
+                     text = "Ese documento no se encuentra registrado",
                      padx = 1, pady = 1,justify="left")
+
       
     self.Entry1 = tk.Entry(master=self.methodsframe)
     self.submit = tk.Button(master=self.methodsframe, text = "Submit", padx = 20, pady = 10, command=self.DoCert)
@@ -38,6 +40,7 @@ class OP6:
     
 
   def  show_Op6(self):
+    self.labl0.grid(row=1, column=0, sticky="NSW", padx=5, pady=12)
     self.labl1.grid(row=0,column = 0, sticky ="NSW", padx = 5, pady = 5)    
     self.Entry1.grid(row=1,column = 0, sticky ="NSW", padx = 5, pady = 5)
     self.submit.grid(row=2,column = 0, sticky ="NSW", padx = 5, pady = 5)
@@ -52,7 +55,7 @@ class OP6:
     self.id = self.Entry1.get().strip()
     try:
       yx=int (self.id)
-      if self.id == "":
+      if self.id == "" or not(self.id in self.procesor.registeredppl()) :
         self.labl3.grid(row=4,column = 0, sticky ="NSW", padx = 5, pady = 5)
       else:
         (self.labl3).grid_forget()
