@@ -1,0 +1,41 @@
+cc,13384485, Cañas Palomino, Luis Alfonso, 1982-05-25, Colombia
+2021-06-30, sinovac, 04054, Colsubsidio, Mariana Bello
+2022-01-15, sinovac, 04055, Colsubsidio, Beatriz Benjumea
+
+cc,97543423, Cruz Contreras, Luis Armando, 1988-12-12, Colombia
+2022-02-13, sputnik, 15011, Colsubsidio, Luisa Rojas
+
+cc,11345683, Moreno Mora, Ana Maria, 2000-03-28, Colombia
+2021-09-22, AstraZeneca, 04054, Hospital Santa Clara, Mercedes Cano
+2022-03-15, Pfizer, 04055, Hospital Santa Clara, Beatriz Roa
+
+cc,2584856, Padilla Gomez, Juan Leonardo, 1972-11-17, Colombia
+2021-05-22, Jansen, A4665, Hospital Santa Clara, Mercedes Cano
+2021-12-03, Moderna, B7455, Hospital Santa Clara, Beatriz Roa
+2022-04-07, Pfizer, C9283, Hospital el Tunal, Jorge Pelaez
+
+cc,1000616312,Millan Sanchez , Juan Manuel, 2001-07-23, Colombia
+2021-07-22, Moderna , A4665, Movistar arena , Mercedes Cano
+2021-11-03, Moderna, B7455, Centro Mayor, Beatriz Roa
+2022-03-07, Pfizer, C9283, Hospital el Tunal, Jorge Pelaez
+
+cc,13384485, Cuervo Gil, Bonifacio ,  1982-05-25, Colombia
+2021-02-10, sinovac, 04054, Colsubsidio, Mariana Bello
+2021-02-14, sinovac, 04055, Colsubsidio, Beatriz Benjumea
+
+cc,97543423, Nydia Alondra, Esteve Araujo, 1988-12-12, Colombia
+2021-03-25, sputnik, 15011, Colsubsidio, Luisa Rojas
+
+cc,1345683, Coello Bastida , sol , 2000-03-28, Colombia
+2021-03-26, AstraZeneca, 04054, Hospital Santa Clara, Mercedes Cano
+2021-05-22, Pfizer, 04055, Hospital Santa Clara, Beatriz Roa
+
+cc,2584856, Perera Monrea, Adán , 1972-11-17, Colombia
+2021-05-15, Jansen, A4665, Hospital Santa Clara, Mercedes Cano
+2021-07-26, Moderna, B7455, Hospital Santa Clara, Beatriz Roa
+2022-04-08, Pfizer, C9283, Hospital el Tunal, Jorge Pelaez
+
+cc,100789097,Aragón Blanco , Esther, 2001-07-23, Colombia
+2021-02-03, Moderna , A4665, Movistar arena , Mercedes Cano
+2021-06-21, Moderna, B7455, Centro Mayor, Beatriz Roa
+2021-12-07, Pfizer, C9283, Hospital el Tunal, Jorge Pelaez
