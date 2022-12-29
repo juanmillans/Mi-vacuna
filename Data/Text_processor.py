@@ -67,7 +67,7 @@ class people():
       self.C_row = (self.rows[self.r_index]).split(",")
 
       if ("cc" == self.C_row[0]
-          or "ti" == self.C_row[0]) and (cc == self.C_row[1]):
+          or "ti" == self.C_row[0]) and (cc == self.C_row[1].strip()):
         flag = "up"
         for items in self.C_row:
           outputCertificate.write(items + " ")
@@ -111,8 +111,7 @@ class people():
 
       if ("cc" == self.C_row[0] or "ti" == self.C_row[0]):
 
-        registered_People[str(
-          self.C_row[1])] = f'{str(self.C_row[2])+" "+str(self.C_row[3])}'
+        registered_People[str(self.C_row[1])] = f'{str(self.C_row[2])+" "+str(self.C_row[3])}'
 
       if self.r_index >= len(self.rows):
         break

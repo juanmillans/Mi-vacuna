@@ -5,7 +5,7 @@ class person():
     def __init__(self,record):
         items=record
         self.idType = items[0].strip()
-        self.id = items[1].strip()
+        self.id = items[1].strip("")
         self.lastname = items[2].strip()
         self.name = items[3].strip()
         self.birthDate = date.fromisoformat(items[4].strip())

@@ -14,7 +14,42 @@ cc,2584856, Padilla Gomez, Juan Leonardo, 1972-11-17, Colombia
 2021-12-03, Moderna, B7455, Hospital Santa Clara, Beatriz Roa
 2022-04-07, Pfizer, C9283, Hospital el Tunal, Jorge Pelaez
 
-cc,1000616312,Millan Sanchez , Juan Manuel, 2001-07-23, Colombia
+cc, 93857485, Rodriguez, Maria, 1996-11-17, Colombia
+2021-05-22, sinovac, A4665, Clinica San Felipe, Sebastian Gomez
+2021-12-03, pfizer, B7455, Clinica San Felipe, Carolina Ortiz
+2022-04-07, moderna, C9283, Clinica del Mar, Antonio Perez
+
+cc, 03857485, Moreno, Carlos, 1985-04-06, Colombia
+2021-05-22, pfizer, A4665, Clinica del Mar, Ana Maria Martinez
+2021-12-03, moderna, B7455, Clinica del Mar, Gloria Perez
+2022-04-07, sinovac, C9283, Clinica San Andres, Maria Hernandez
+
+cc, 13857485, Hernandez, Antonio, 1994-05-17, Colombia
+2021-05-22, moderna, A4665, Clinica San Andres, Carlos Moreno
+2021-12-03, sinovac, B7455, Clinica San Andres, Sebastian Gomez
+2022-04-07, pfizer, C9283, Clinica del Pacífico, Carolina Ortiz
+
+cc, 23857485, Martinez, Ana Maria, 1986-02-06, Colombia
+2021-05-22, sinovac, A4665, Clinica del Pacífico, Maria Rodriguez
+2021-12-03, pfizer, B7455, Clinica del Pacífico, Antonio Perez
+2022-04-07, moderna, C9283, Clinica San Carlos, Gloria Perez
+
+cc, 33857485, Perez, Gloria, 1993-08-22, Colombia
+2021-05-22, pfizer, A4665, Clinica San Carlos, Ana Maria Martinez
+2021-12-03, moderna, B7455, Clinica San Carlos, Carolina Ortiz
+2022-04-07, sinovac, C9283, Clinica San Sebastian, Carlos Moreno
+
+cc, 43857485, Ortiz, Carolina, 1997-01-14, Colombia
+2021-05-22, moderna, A4665, Clinica San Sebastian, Maria Hernandez
+2021-12-03, sinovac, B7455, Clinica San Sebastian, Sebastian Gomez
+2022-04-07, pfizer, C9283, Clinica del Oriente, Antonio Perez
+
+cc,53857485, Gomez, Sebastian, 1989-06-28, Colombia
+2021-05-22, pfizer, A4665, Clinica del Oriente, Ana Maria Martinez
+2021-12-03, sinovac, B7455, Clinica del Oriente, Gloria Perez
+2022-04-07, moderna, C9283, Clinica San Juan, Carlos Moreno
+
+cc,1000915714,Millan Sanchez , Juan Manuel, 2004-05-23, Colombia
 2021-07-22, Moderna , A4665, Movistar arena , Mercedes Cano
 2021-11-03, Moderna, B7455, Centro Mayor, Beatriz Roa
 2022-03-07, Pfizer, C9283, Hospital el Tunal, Jorge Pelaez
@@ -39,3 +74,259 @@ cc,100789097,Aragón Blanco , Esther, 2001-07-23, Colombia
 2021-02-03, Moderna , A4665, Movistar arena , Mercedes Cano
 2021-06-21, Moderna, B7455, Centro Mayor, Beatriz Roa
 2021-12-07, Pfizer, C9283, Hospital el Tunal, Jorge Pelaez
+
+cc, 82739485, Martínez, Sofía, 1991-09-21, Colombia
+2021-08-15, astrazeneca, 07086, Clinica del Norte, Carlos Ruiz
+2022-04-01, astrazeneca, 07087, Clinica del Norte, Diana Sánchez
+
+cc, 92857485, López, Miguel, 1995-04-18, Colombia
+2021-09-01, novavax, 08074, Clinica del Este, Jose Ortiz
+2022-05-15, novavax, 08075, Clinica del Este, María Díaz
+
+cc, 83957485, Rodríguez, Ana, 1992-05-19, Colombia
+2021-09-15, johnson & johnson, 09086, Clinica del Oeste, Alberto García
+2022-06-01, johnson & johnson, 09087, Clinica del Oeste, Beatriz Moreno
+
+cc, 93057485, Pérez, Julio, 1996-06-20, Colombia
+2021-10-01, sinopharm, 10074, Clinica del Centro, Carlos Martínez
+2022-07-15, sinopharm, 10075, Clinica del Centro, Sofía López
+
+cc, 84057485, Moreno, Beatriz, 1993-07-21, Colombia
+2021-10-15, sinovac, 11086, Clinica del Sur, Miguel Rodríguez
+2022-08-01, sinovac, 11087, Clinica del Sur, Ana Pérez
+
+cc, 93157485, Ruiz, Carlos, 1997-08-22, Colombia
+2021-11-01, pfizer, 12074, Clinica del Norte, Julio Moreno
+2022-09-15, pfizer, 12075, Clinica del Norte, Beatriz Martínez
+
+cc, 84157485, Díaz, María, 1994-09-23, Colombia
+2021-11-15, moderna, 13086, Clinica del Este, Ana Ruiz
+2022-10-01, moderna, 13087, Clinica del Este, Carlos López
+
+cc, 93257485, Ortiz, José, 1998-10-24, Colombia
+2021-12-01, astrazeneca, 14074, Clinica del Oeste, Sofía Díaz
+2022-11-15, astrazeneca, 14075, Clinica del Oeste, Miguel Pérez
+
+cc, 84257485, Sánchez, Diana, 1995-11-25, Colombia
+2021-12-15, novavax, 15086, Clinica del Centro, Ana Ortiz
+2022-12-01, novavax, 15087, Clinica del Centro, Julio Ruiz
+
+cc, 93357485, García, Alberto, 1999-12-26, Colombia
+2022-01-01, sinopharm, 16074, Clinica del Sur, Miguel Sánchez
+2022-12-15, sinopharm, 16075, Clinica del Sur, Sofía García
+
+cc, 54729485, Ortiz, Carolina, 1987-09-06, Colombia
+2021-08-15, sinovac, 07084, Clinica San Rafael, Gloria Rodriguez
+2022-04-01, sinovac, 07085, Clinica San Rafael, Carlos Moreno
+
+cc, 63857485, Gomez, Sebastian, 1991-04-22, Colombia
+2021-09-01, pfizer, 08074, Clinica del Norte, Antonio Perez
+2022-05-15, pfizer, 08075, Clinica del Norte, Maria Hernandez
+
+cc, 73857485, Rodriguez, Maria, 1992-07-14, Colombia
+2021-09-15, moderna, 09074, Clinica San Francisco, Juan Moreno
+2022-06-01, moderna, 09075, Clinica San Francisco, Ana Maria Martinez
+
+cc, 83857485, Moreno, Carlos, 1988-12-28, Colombia
+2021-10-01, sinovac, 10074, Clinica San Juan, Santiago Rodriguez
+2022-07-15, sinovac, 10075, Clinica San Juan, Maria Camila Gomez
+
+cc, 93857485, Hernandez, Antonio, 1995-05-17, Colombia
+2021-10-15, pfizer, 11074, Clinica del Oriente, Camila Ortiz
+2022-08-01, pfizer, 11075, Clinica del Oriente, Sebastian Gomez
+
+cc, 03857485, Martinez, Ana Maria, 1986-02-06, Colombia
+2021-11-01, moderna, 12074, Clinica San Carlos, Carolina Ortiz
+2022-09-15, moderna, 12075, Clinica San Carlos, Maria Rodriguez
+
+cc, 13857485, Perez, Gloria, 1993-08-22, Colombia
+2021-11-15, sinovac, 13074, Clinica San Sebastian, Carlos Moreno
+2022-10-01, sinovac, 13075, Clinica San Sebastian, Antonio Hernandez
+
+cc, 23857485, Ortiz, Carolina, 1997-01-14, Colombia
+2021-12-01, pfizer, 14074, Clinica del Pacífico, Ana Maria Martinez
+2022-11-15, pfizer, 14075, Clinica del Pacífico, Gloria Perez
+
+cc, 33857485, Gomez, Sebastian, 1989-06-28, Colombia
+2021-12-15, moderna, 15074, Clinica San Andres, Maria Hernandez
+2022-12-01, moderna, 15075, Clinica San Andres, Carlos Moreno
+
+cc, 43857485, Rodriguez, Maria, 1996-11-17, Colombia
+2022-01-01, sinovac, 16074, Clinica San Felipe, Sebastian Gomez
+2022-12-15, sinovac, 16075, Clinica San Felipe, Carolina Ortiz
+
+cc,2584856, Padilla Gomez, Juan Leonardo, 1972-11-17, Colombia
+2021-05-22, Jansen, A4665, Hospital Santa Clara, Mercedes Cano
+2021-12-03, Moderna, B7455, Hospital Santa Clara, Beatriz Roa
+2022-04-07, Pfizer, C9283, Hospital el Tunal, Jorge Pelaez
+
+cc, 53857485, Rodriguez, Maria, 1996-11-17, Colombia
+2021-07-22, sinovac, A4665, Clinica San Felipe, Sebastian Gomez
+2021-12-03, pfizer, B7455, Clinica San Felipe, Carolina Ortiz
+2022-04-07, moderna, C9283, Clinica del Mar, Antonio Perez
+
+cc, 63857485, Moreno, Carlos, 1985-04-06, Colombia
+2021-08-22, pfizer, A4665, Clinica del Mar, Ana Maria Martinez
+2021-12-03, moderna, B7455, Clinica del Mar, Gloria Perez
+2022-04-07, sinovac, C9283, Clinica San Andres, Maria Hernandez
+
+cc,73857485, Hernandez, Antonio, 1994-05-17, Colombia
+2021-09-22, moderna, A4665, Clinica San Andres, Carlos Moreno
+2021-12-03, sinovac, B7455, Clinica San Andres, Sebastian Gomez
+2022-04-07, pfizer, C9283, Clinica del Pacífico, Carolina Ortiz
+
+cc, 83857485, Martinez, Ana Maria, 1986-02-06, Colombia
+2021-10-22, sinovac, A4665, Clinica del Pacífico, Maria Rodriguez
+2021-12-03, pfizer, B7455, Clinica del Pacífico, Antonio Perez
+2022-04-07, moderna, C9283, Clinica San Carlos, Gloria Perez
+
+cc, 93857485, Perez, Gloria, 1993-08-22, Colombia
+2021-11-22, pfizer, A4665, Clinica San Carlos, Ana Maria Martinez
+2021-12-03, moderna, B7455, Clinica San Carlos, Carolina Ortiz
+2022-04-07, sinovac, C9283, Clinica San Sebastian, Carlos Moreno
+
+cc, 03857485, Ortiz, Carolina, 1997-01-14, Colombia
+2021-12-22, moderna, A4665, Clinica San Sebastian, Maria Hernandez
+2021-12-03, sinovac, B7455, Clinica San Sebastian, Sebastian Gomez
+2022-04-07, pfizer, C9283, Clinica del Oriente, Antonio Perez
+
+cc, 13857485, Gomez, Sebastian, 1989-06-28, Colombia
+2022-01-22, pfizer, A4665, Clinica del Oriente, Ana Maria Martinez
+2021-12-03, sinovac, B7455, Clinica del Oriente, Gloria Perez
+2022-04-07, moderna, C9283, Clinica San Juan, Carlos Moreno
+
+cc, 23857485, Rodriguez, Maria, 1988-12-28, Colombia
+2022-02-22, moderna, A4665, Clinica San Juan, Maria Hernandez
+2021-12-03, pfizer, B7455, Clinica San Juan, Carolina Ortiz
+2022-04-07, sinovac, C9283, Clinica San Francisco, Sebastian Gomez
+
+cc, 83857485, Moreno, Carlos, 1985-04-06, Colombia
+2021-05-22, pfizer, A4665, Clinica del Mar, Ana Maria Martinez
+2021-12-03, moderna, B7455, Clinica del Mar, Gloria Perez
+2022-04-07, sinovac, C9283, Clinica San Andres, Maria Hernandez
+
+cc, 93857485, Hernandez, Antonio, 1994-05-17, Colombia
+2021-05-22, moderna, A4665, Clinica San Andres, Carlos Moreno
+2021-12-03, sinovac, B7455, Clinica San Andres, Sebastian Gomez
+2022-04-07, pfizer, C9283, Clinica del Pacífico, Carolina Ortiz
+
+cc, 63459875, Martinez, Ana Maria, 1986-02-06, Colombia
+2021-05-22, sinovac, A4665, Clinica del Pacífico, Maria Rodriguez
+2021-12-03, pfizer, B7455, Clinica del Pacífico, Antonio Perez
+2022-04-07, moderna, C9283, Clinica San Carlos, Gloria Perez
+
+cc, 73857485, Perez, Gloria, 1993-08-22, Colombia
+2021-05-22, pfizer, A4665, Clinica San Carlos, Ana Maria Martinez
+2021-12-03, moderna, B7455, Clinica San Carlos, Carolina Ortiz
+2022-04-07, sinovac, C9283, Clinica San Sebastian, Carlos Moreno
+
+cc, 83857485, Ortiz, Carolina, 1997-01-14, Colombia
+2021-05-22, moderna, A4665, Clinica San Sebastian, Maria Hernandez
+2021-12-03, sinovac, B7455, Clinica San Sebastian, Sebastian Gomez
+2022-04-07, pfizer, C9283, Clinica del Oriente, Antonio Perez
+
+cc, 93857485, Gomez, Sebastian, 1989-06-28, Colombia
+2021-05-22, pfizer, A4665, Clinica del Oriente, Ana Maria Martinez
+2021-12-03, sinovac, B7455, Clinica del Oriente, Gloria Perez
+2022-04-07, moderna, C9283, Clinica San Juan, Carlos Moreno
+
+cc, 03857485, Moreno, Carlos, 1985-04-06, Colombia
+2021-05-22, pfizer, A4665, Clinica del Mar, Ana Maria Martinez
+2021-12-03, moderna, B7455, Clinica del Mar, Gloria Perez
+2022-04-07, sinovac, C9283, Clinica San Andres, Maria Hernandez
+
+cc, 13857485, Hernandez, Antonio, 1994-05-17, Colombia
+2021-05-22, moderna, A4665, Clinica San Andres, Carlos Moreno
+2021-12-03, sinovac, B7455, Clinica San Andres, Sebastian Gomez
+2022-04-07, pfizer, C9283, Clinica del Pacífico, Carolina Ortiz
+
+cc, 23857485, Rodriguez, Maria, 1996-11-17, Colombia
+2021-05-22, sinovac, A4665, Clinica San Felipe, Sebastian Gomez
+2021-12-03, pfizer, B7455, Clinica San Felipe, Carolina Ortiz
+2022-04-07, moderna, C9283, Clinica del Mar, Antonio
+
+cc, 33857485, Padilla Gomez, Juan Leonardo, 1972-11-17, Colombia
+2021-05-22, Jansen, A4665, Hospital Santa Clara, Mercedes Cano
+2021-12-03, Moderna, B7455, Hospital Santa Clara, Beatriz Roa
+2022-04-07, Pfizer, C9283, Hospital el Tunal, Jorge Pelaez
+
+cc, 43857485, Moreno Mora, Ana Maria, 2000-03-28, Colombia
+2021-09-22, AstraZeneca, 04054, Hospital Santa Clara, Mercedes Cano
+2022-03-15, Pfizer, 04055, Hospital Santa Clara, Beatriz Roa
+
+cc, 53857485, Cruz Contreras, Luis Armando, 1988-12-12, Colombia
+2022-02-13, sputnik, 15011, Colsubsidio, Luisa Rojas
+
+cc, 63857485, Cañas Palomino, Luis Alfonso, 1982-05-25, Colombia
+2021-06-30, sinovac, 04054, Colsubsidio, Mariana Bello
+2022-01-15, sinovac, 04055, Colsubsidio, Beatriz Benjumea
+
+cc, 73857485, Salinas, Mariana, 1994-01-17, Colombia
+2021-05-22, pfizer, A4665, Clinica del Sol, Maria Rodriguez
+2021-12-03, sinovac, B7455, Clinica del Sol, Antonio Perez
+2022-04-07, moderna, C9283, Clinica San Felipe, Gloria Perez
+
+cc, 83857485, Gonzalez, Sebastian, 1992-09-22, Colombia
+2021-05-22, sinovac, A4665, Clinica San Felipe, Ana Maria Martinez
+2021-12-03, pfizer, B7455, Clinica San Felipe, Carolina Ortiz
+
+cc, 93857485, Moreno, Carlos, 1985-04-06, Colombia
+2021-05-22, pfizer, A4665, Clinica del Mar, Ana Maria Martinez
+2021-12-03, moderna, B7455, Clinica del Mar, Gloria Perez
+2022-04-07, sinovac, C9283, Clinica San Andres, Maria Hernandez
+
+cc, 03857485, Hernandez, Antonio, 1994-05-17, Colombia
+2021-05-22, moderna, A4665, Clinica San Andres, Carlos Moreno
+2021-12-03, sinovac, B7455, Clinica San Andres, Sebastian Gomez
+2022-04-07, pfizer, C9283, Clinica del Pacífico, Carolina Ortiz
+
+cc, 13857485, Rodriguez, Maria, 1996-11-17, Colombia
+2021-05-22, sinovac, A4665, Clinica San Felipe, Sebastian Gomez
+2021-12-03, pfizer, B7455, Clinica San Felipe, Carolina Ortiz
+2022-04-07, moderna, C9283, Clinica del Mar, Antonio Perez
+
+cc, 23857485, Padilla Gomez, Juan Leonardo, 1972-11-17, Colombia
+2021-05-22, Jansen, A4665, Hospital Santa Clara, Mercedes Cano
+2021-12-03, Moderna, B7455, Hospital Santa Clara, Beatriz Roa
+2022-04-07, Pfizer, C9283, Hospital el Tunal, Jorge Pelaez
+
+cc, 33857485, Moreno Mora, Ana Maria, 2000-03-28, Colombia
+2021-09-22, AstraZeneca, 04054, Hospital Santa Clara, Mercedes Cano
+2022-03-15, Pfizer, 04055, Hospital Santa Clara, Beatriz Roa
+
+cc, 43857485, Cruz Contreras, Luis Armando, 1988-12-12, Colombia
+2022-02-13, sputnik, 15011, Colsubsidio, Luisa Rojas
+
+cc, 53857485, Cañas Palomino, Luis Alfonso, 1982-05-25, Colombia
+2021-06-30, sinovac, 04054, Colsubsidio, Mariana Bello
+2022-01-15, sinovac, 04055, Colsubsidio, Beatriz Benjumea
+
+cc, 93857485, Rodriguez, Maria, 1996-11-17, Colombia
+2021-05-22, sinovac, A4665, Clinica San Felipe, Sebastian Gomez
+2021-12-03, pfizer, B7455, Clinica San Felipe, Carolina Ortiz
+2022-04-07, moderna, C9283, Clinica del Mar, Antonio Perez
+
+cc, 03857485, Moreno, Carlos, 1985-04-06, Colombia
+2021-05-22, pfizer, A4665, Clinica del Mar, Ana Maria Martinez
+2021-12-03, moderna, B7455, Clinica del Mar, Gloria Perez
+2022-04-07, sinovac, C9283, Clinica San Andres, Maria Hernandez
+
+cc, 13857485, Hernandez, Antonio, 1994-05-17, Colombia
+2021-05-22, moderna, A4665, Clinica San Andres, Carlos Moreno
+2021-12-03, sinovac, B7455, Clinica San Andres, Sebastian Gomez
+2022-04-07, pfizer, C9283, Clinica del Pacífico, Carolina Ortiz
+
+cc, 23857485, Martinez, Ana Maria, 1986-02-06, Colombia
+2021-05-22, sinovac, A4665, Clinica del Pacífico, Maria Rodriguez
+2021-12-03, pfizer, B7455, Clinica del Pacífico, Antonio Perez
+2022-04-07, moderna, C9283, Clinica San Carlos, Gloria Perez
+
+cc, 33857485, Perez, Gloria, 1993-08-22, Colombia
+2021-05-22, pfizer, A4665, Clinica San Carlos, Ana Maria Martinez
+2021-12-03, moderna, B7455, Clinica San Carlos, Carolina Ortiz
+2022-04-07, sinovac, C9283, Clinica San Sebastian, Carlos Moreno
+
+cc, 43857485, Ortiz, Carolina, 1997-01-14, Colombia
+2021-05-22, moderna, A4665, Clinica San Sebastian, Maria Hernandez
+2021-12-03, sinovac, B7455, Clinica San Sebastian, Sebastian Gomez
+2022-04-07, pfizer, C9283, Clinica del Oriente, Antonio Perez
