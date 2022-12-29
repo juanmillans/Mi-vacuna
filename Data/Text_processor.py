@@ -49,7 +49,7 @@ class people():
           self.r_index += 1  #Then we move on to the next row
 
           if self.r_index == len(
-              self.rows):  # if we surpassed the maximum row index
+              self.rows):  
             break
           else:  # otherwise
             self.C_row = (self.rows[self.r_index]).split(
