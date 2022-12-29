@@ -13,11 +13,11 @@ class OP1:
                               pady=5)
     self.descriptionframe=tk.LabelFrame(master=p_windw,
                               padx=5,
-                              pady=5)
+                              pady=5,bg="#70CBFF")
 
     self.labl0 = tk.Label(master=self.descriptionframe,
-                     text = "Esta función toma como entrada un rango de edad, para mostrar la cantidad de personas vacunadas",
-                     padx = 1, pady = 1,justify="left")   
+                     text = "Esta función toma como entrada un rango de edad, para mostrar \n la cantidad de personas vacunadas",
+                     padx = 1, pady = 1,justify="left",bg="#70CBFF")   
 
 
 

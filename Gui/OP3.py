@@ -18,11 +18,11 @@ class OP3:
                               pady=5)
     self.descriptionframe=tk.LabelFrame(master=p_windw,
                               padx=5,
-                              pady=5)
+                              pady=5,bg="#70CBFF")
 
     self.labl0 = tk.Label(master=self.descriptionframe,
                      text = "Esta funcion toma como entrada un año\ny entrega una grafica de la apliicacion de vacunas en ese año ",
-                     padx = 1, pady = 1,justify="left")   
+                     padx = 1, pady = 1,justify="left",bg="#70CBFF")   
 
 
 

@@ -58,7 +58,8 @@ class Base:
     self.methodsframe=self.Ojana.methodsframe
     buttonframe=tk.LabelFrame(master=p_windw,
                               padx=5,
-                              pady=5)
+                              pady=5,
+                              bg="#ADD5FF")
 #self.Ojana.methodsframe
 
 #---------------------FRAME INITIALIZATION-----------------
@@ -82,15 +83,15 @@ class Base:
 
 #---------------------BUTTONS INITIALIZATION-----------------    
     button1 = tk.Button(master=buttonframe, text = "1", padx = 35, pady = 10
-                        ,command=self.BTN1)
+                        ,command=self.BTN1,bg="#2892B8")
     button2 = tk.Button(master=buttonframe, text = "2", padx = 35, pady = 10
-                        ,command=self.BTN2)
+                        ,command=self.BTN2,bg="#2892B8")
     button3 = tk.Button(master=buttonframe, text = "3", padx = 35, pady = 10
-                        ,command=self.BTN3)
+                        ,command=self.BTN3,bg="#2892B8")
     button4 = tk.Button(master=buttonframe, text = "4", padx = 35, pady = 10
-                        ,command=self.BTN4)
-    button5 = tk.Button(master=buttonframe, text = "5", padx = 35, pady = 10,command=self.BTN5)
-    button6 = tk.Button(master=buttonframe, text = "6", padx = 35, pady = 10,command=self.BTN6)
+                        ,command=self.BTN4,bg="#2892B8")
+    button5 = tk.Button(master=buttonframe, text = "5", padx = 35, pady = 10,command=self.BTN5,bg="#2892B8")
+    button6 = tk.Button(master=buttonframe, text = "6", padx = 35, pady = 10,command=self.BTN6,bg="#2892B8")
     DONE = tk.Button(master=buttonframe, text = "Home", padx = 20, pady = 10,command=self.BTNH)
     
 

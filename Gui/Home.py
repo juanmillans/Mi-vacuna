@@ -14,10 +14,10 @@ class Home:
                               pady=5)
     self.descriptionframe=tk.LabelFrame(master=p_windw,
                               padx=5,
-                              pady=5)
+                              pady=5,bg="#70CBFF")
     self.labl0 = tk.Label(master=self.descriptionframe,
                      text = "Para mostrar la opcion deseada presione el numero que se encuentra\nal lado de la opcion deseada ",
-                     padx = 1, pady = 1,justify="left")   
+                     padx = 1, pady = 1,justify="left",bg="#70CBFF")   
 
     self.labl1 = tk.Label(master=self.methodsframe,
                      text = "1) Vacunación en un rango de edad",

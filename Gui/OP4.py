@@ -16,7 +16,7 @@ class OP4:
     self.procesor = CPU("personalData")
 
     self.methodsframe = tk.LabelFrame(master=p_windw, padx=5, pady=5)
-    self.descriptionframe = tk.LabelFrame(master=p_windw, padx=5, pady=5)
+    self.descriptionframe = tk.LabelFrame(master=p_windw, padx=5, pady=5,bg="#70CBFF")
 
     self.labl0 = tk.Label(
       master=self.descriptionframe,
@@ -24,7 +24,7 @@ class OP4:
       "Esta funcion toma como entrada un numero de vacunas \ny entrega la cantidad de personas vacunadas con ese numero de vacunas",
       padx=1,
       pady=1,
-      justify="left")
+      justify="left",bg="#70CBFF")
     #-------------------------LABELS INITIALIZATION---------------------------------------------
     self.labl1 = tk.Label(master=self.methodsframe,
                           text="Numero de Vacunas",

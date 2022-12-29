@@ -96,9 +96,8 @@ class CPU():
   def Vperperson_pie(self):
     # Esta graica de tortas no recibe ninguna clase de input, unicamente da output las vacunas por persona en una grafica.
     qtty = 0
-    qtty_L = [0, 0, 0, 0]
-    E_qtty = [
-      "one vaccine", "two vaccine", "three vaccines ", "four vaccines "]
+    qtty_L = [0, 0, 0]
+    E_qtty = ["one vaccine", "two vaccines", "three vaccines"]
     for guy in self.Population:
       qtty = len(guy.vaccines)
       if qtty == 1:
