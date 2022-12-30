@@ -7,7 +7,8 @@ class OP6:
   def  __init__(self, p_windw):
     self.name = "rrrra"
     self.id = "rra"
-    self.procesor = CPU("personalData")
+    self.procesor = people("personalData")
+    self.diccionario=self.procesor.RegisteredId()
 
 
     self.methodsframe=tk.LabelFrame(master=p_windw,
@@ -34,7 +35,8 @@ class OP6:
 
       
     self.Entry1 = tk.Entry(master=self.methodsframe)
-    self.submit = tk.Button(master=self.methodsframe, text = "Submit", padx = 20, pady = 10, command=self.DoCert)
+    self.submit = tk.Button(master=self.methodsframe, text = "Submit", padx = 20, pady = 10,
+                            command=self.DoCert)
 
 
     
@@ -52,10 +54,17 @@ class OP6:
     
 
   def DoCert(self):
-    self.id = self.Entry1.get().strip()
+    self.id = (self.Entry1.get()).strip()
+    
+    print(self.diccionario)
     try:
       yx=int (self.id)
-      if self.id == "" or not(self.id in self.procesor.registeredppl()) :
+      
+      
+      
+      if not(self.id in self.diccionario) :
+        (self.labl2).grid_forget()
+      
         self.labl3.grid(row=4,column = 0, sticky ="NSW", padx = 5, pady = 5)
       else:
         (self.labl3).grid_forget()
@@ -67,5 +76,5 @@ class OP6:
       
     except:
       self.Entry1.delete(0,'end')
-      self.Entry1.insert(0,"Ingrese un año valido")
+      self.Entry1.insert(0,"Ingrese un numero valido")
       pass

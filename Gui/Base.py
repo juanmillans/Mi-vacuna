@@ -15,6 +15,7 @@ class Base:
     self.name = "rrrra"
     self.id = "rra"
     self.procesor = CPU("personalData")
+    #registeredppl
 
 
 

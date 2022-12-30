@@ -11,10 +11,8 @@ class people():
     self.rows = self.PData.readlines()  #personal data is to be stored in rows
     #print( last_line)
     self.r_index = 0  # initializing row index and current row in the text
-    self.C_row = [
-    ]  # current row is a list of different values separated by commas
-    self.last_row = self.rows[-1].split(
-      ",")  # last item of all items in the list
+    self.C_row = []  # current row is a list of different values separated by commas
+    self.last_row = self.rows[-1].split(",")  # last item of all items in the list
     self.Plist = []  # list of person objects with all their information
 
   def CleanData(self):
@@ -63,11 +61,12 @@ class people():
     flag = ""
 
     while self.C_row != self.last_row:
+      
+
 
       self.C_row = (self.rows[self.r_index]).split(",")
 
-      if ("cc" == self.C_row[0]
-          or "ti" == self.C_row[0]) and (cc == self.C_row[1].strip()):
+      if ("cc" == self.C_row[0] or "ti" == self.C_row[0]) and (cc == self.C_row[1].strip()):
         flag = "up"
         for items in self.C_row:
           outputCertificate.write(items + " ")
@@ -101,26 +100,16 @@ class people():
     outputCertificate.close()
 
   def RegisteredId(self):
-    registered_People = {}
-
-    flag = ""
-
-    while self.C_row != self.last_row:
-
-      self.C_row = (self.rows[self.r_index]).split(",")
-
-      if ("cc" == self.C_row[0] or "ti" == self.C_row[0]):
-
-        registered_People[str(self.C_row[1])] = f'{str(self.C_row[2])+" "+str(self.C_row[3])}'
-
-      if self.r_index >= len(self.rows):
-        break
-      else:
-        self.C_row = (self.rows[self.r_index]).split(",")
-
-      if (self.C_row == ["\n"] and flag == "up"):
-        break
-
-      self.r_index += 1
+    registered_People={}
+    count=0
+    while self.r_index < len(self.rows) :
+      self.C_row=(self.rows[self.r_index]).split(",")
+      if self.C_row[0]=="cc":
+        #print((self.C_row[1]).strip())
+        id_num=(self.C_row[1]).strip()
+        registered_People[id_num]=f'{(self.C_row[2]).strip()+" "+(self.C_row[3]).strip()}'
+        
+      self.r_index+=1
     #print(registered_People)
     return (registered_People)
+    
